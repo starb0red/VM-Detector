@@ -1,0 +1,16 @@
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\bin\Debug\net5.0\VMDetector.exe
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\bin\Debug\net5.0\VMDetector.deps.json
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\bin\Debug\net5.0\VMDetector.runtimeconfig.json
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\bin\Debug\net5.0\VMDetector.runtimeconfig.dev.json
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\bin\Debug\net5.0\VMDetector.dll
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\bin\Debug\net5.0\ref\VMDetector.dll
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\bin\Debug\net5.0\VMDetector.pdb
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\obj\Debug\net5.0\VMDetector.csproj.AssemblyReference.cache
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\obj\Debug\net5.0\VMDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\obj\Debug\net5.0\VMDetector.AssemblyInfoInputs.cache
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\obj\Debug\net5.0\VMDetector.AssemblyInfo.cs
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\obj\Debug\net5.0\VMDetector.csproj.CoreCompileInputs.cache
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\obj\Debug\net5.0\VMDetector.dll
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\obj\Debug\net5.0\ref\VMDetector.dll
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\obj\Debug\net5.0\VMDetector.pdb
+C:\Users\h3l1x\OneDrive\Desktop\VM-Detector-main\VMDetector\obj\Debug\net5.0\VMDetector.genruntimeconfig.cache

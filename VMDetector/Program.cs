@@ -24,12 +24,14 @@ namespace VMDetector
                 {
                     green();
                     Console.WriteLine($"[-] Couldn't Trace " + processes[i]);
+                    Thread.Sleep(50);
                 }
                 else
                 {
                     red();
                     Console.WriteLine("[+] Traced " + processes[i]);
                     count++;
+                    Thread.Sleep(50);
                 }
             }
             white();
@@ -101,15 +103,17 @@ namespace VMDetector
                     red();
                     Console.WriteLine("[+] Traced " + files[i]);
                     count++;
+                    Thread.Sleep(50);
                 }
                 else
                 {
                     green();
                     Console.WriteLine("[-] Couldn't trace " + files[i]);
+                    Thread.Sleep(50); 
                 }
             }
             white();
-            Console.WriteLine("Finished Test! \nThe amount of sus traces ended at: (" + count + ")\nIf this count ended in more than (1) then your likely using a VM.") ;
+            Console.WriteLine("Finished Test! \nThe amount of sus traces ended at: (" + count + ")\nIf this count ended in more than (1) then you're likely using a VM.") ; //fixed my shitty grammar here.
             Console.ReadKey();
 
         }
